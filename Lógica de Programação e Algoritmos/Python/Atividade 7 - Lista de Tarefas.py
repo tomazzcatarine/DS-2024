@@ -1,0 +1,23 @@
+"""t1 = str(input("Digite a tarefa 1: "))
+t2 = str(input("Digite a tarefa 2: "))
+t3 = str(input("Digite a tarefa 3: "))
+t4 = str(input("Digite a tarefa 4: "))
+t5 = str(input("Digite a tarefa 5: "))
+t6 = str(input("Digite a tarefa 6: "))
+t7 = str(input("Digite a tarefa 7: "))
+t8 = str(input("Digite a tarefa 8: "))
+t9 = str(input("Digite a tarefa 9: "))
+t10 = str(input("Digite a tarefa 10: "))
+
+print("\n-----------------------------------------\n")
+
+print("tarefa 1: ", t1)
+print("tarefa 2: ", t2)
+print("tarefa 3: ", t3)
+print("tarefa 4: ", t4)
+print("tarefa 5: ", t5)
+print("tarefa 6: ", t6)
+print("tarefa 7: ", t7)
+print("tarefa 8: ", t8)
+print("tarefa 9: ", t9)
+print("tarefa 10: ", t10)"""
